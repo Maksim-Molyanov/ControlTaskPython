@@ -1,0 +1,20 @@
+[
+  {
+    "id": 0,
+    "title": "test",
+    "body": "test",
+    "time": "22.07.2023 22:01"
+  },
+  {
+    "id": 1,
+    "title": "tester",
+    "body": "tester",
+    "time": "22.07.2023 22:01"
+  },
+  {
+    "id": 2,
+    "title": "tester2",
+    "body": "tester2",
+    "time": "22.07.2023 22:02"
+  }
+]
